@@ -1,0 +1,9 @@
+<Project>
+	<PropertyGroup>
+		<RootNamespace>TextPatch</RootNamespace>
+		<Authors>Serhii Kuzmychov</Authors>
+		<Company />
+		<RepositoryUrl>https://github.com/ku3mich/TextPatch/</RepositoryUrl>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+</Project>
